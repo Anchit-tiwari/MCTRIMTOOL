@@ -1,4 +1,4 @@
-Custom License — Non‑Commercial, Attribution of Changes
+Custom License — Non‑Commercial, Attribution of Changes, Permission Required for Additional Use
 
 Copyright (c) 2025 Anchit T (GitHub: Anchit-tiwari)
 
@@ -6,19 +6,28 @@ Permission is granted to any person obtaining a copy of this software and associ
 documentation files (the “Software”) to use, copy, modify, and redistribute the Software,
 in private or public form, subject to the following conditions:
 
-1. Non‑Commercial Use Only
+1. Non‑Commercial Use Only  
    The Software may not be used for commercial purposes. This includes selling,
    licensing, or using the Software in any product or service that generates revenue.
 
-2. Attribution of Changes
+2. Attribution of Changes  
    If you modify the Software and redistribute it, you must clearly state what changes
    you made.
 
-3. Redistribution Allowed
+3. Redistribution Allowed  
    Redistribution of the original or modified Software is permitted, as long as all
    conditions of this license are followed.
 
-4. No Warranty
+4. Written Permission for Additional Use  
+   Any use of the Software beyond what is explicitly allowed in this license requires
+   **written permission from the copyright holder** (Anchit T / Anchit‑tiwari).
+   This includes, but is not limited to:
+   - commercial use  
+   - sublicensing  
+   - incorporating the Software into larger projects with different licensing  
+   - any use not clearly permitted above
+
+5. No Warranty  
    The Software is provided “as is,” without warranty of any kind. The author is not
    liable for any damages or issues that arise from using the Software.
 
